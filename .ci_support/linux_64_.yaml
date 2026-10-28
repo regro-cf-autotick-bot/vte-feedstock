@@ -1,3 +1,5 @@
+DOCKER_PLATFORM:
+- linux/amd64
 c_stdlib:
 - sysroot
 c_stdlib_version:
@@ -29,7 +31,7 @@ glib:
 gnutls:
 - '3.8'
 icu:
-- '78'
+- '79'
 lz4_c:
 - '1.10'
 pango:
